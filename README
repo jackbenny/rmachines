@@ -1,0 +1,13 @@
+rMachines
+
+This is the very first relase of the rMachines script.
+It is a very simple Bash script to collect uptime and who data from remote
+machines and then presenting that data on a very simple HTML page.
+For this to work you need to setup SSH keys on the remote user on the machines
+that will be used to collect the data.
+The keys need to be password free becuase it's a non-interactive script.
+Usually this is a bad idea considering it's securtiy implications.
+So use it on your own risk!!
+
+Jack-Benny Persson
+jake@cyberinfo.se
